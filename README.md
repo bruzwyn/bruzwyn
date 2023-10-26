@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me bruce.koech.7@gmail.com
+- 📫 Reach me @ bruce.koech.7@gmail.com
 
 <!---
 bruzwyn/bruzwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

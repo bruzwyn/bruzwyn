@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @bruzwyn                                                        ![Alt Text](ui-dev.gif)
+![Alt Text](ui-dev.gif)
+
+- 👋 Hi, I’m @bruzwyn
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...computer science
 - 💞️ I’m looking to collaborate on ...

@@ -1,9 +1,11 @@
+### Hello guys  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 <img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - - 👀 I’m interested in software dev, networking technologies, and cyber security...
 - 💞️ I’m looking to collaborate on any project you might have in mind ...
-- 😎 look me up at Bruceyn1/in/ to know more about me.
+- 😎 look me up at Bruce-wyn/in/ to know more about me.
 - 👨🏽‍💻 I’m currently working on alx projects 😉
 - 🌱 I’m currently learning simple shell, bnb clone and azure cloud...
 - 💬 Ask me about anything, I am happy to help.

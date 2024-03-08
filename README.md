@@ -7,7 +7,6 @@
   <img align="left" alt="Edwin's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 <br />
-<br />
 
 <img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
 

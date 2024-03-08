@@ -1,4 +1,4 @@
-<img img align="right" style="margin-left:5px;"    src="ui-dev.gif" alt="Alt Text" width="400" height="200">
+<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - 👀 I’m interested in ...software engineering

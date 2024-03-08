@@ -1,4 +1,4 @@
-<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
+![image](https://github.com/bruzwyn/bruzwyn/assets/104432366/e763fb45-b547-48ef-8e05-973318dcc57d)<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - - 👀 I’m interested in software dev, networking technologies, and cyber security...
@@ -11,6 +11,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&redirect=true)
 
+LANGUAGE AND TOOLS:
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 
 <!---
 bruzwyn/bruzwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

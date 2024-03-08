@@ -1,4 +1,4 @@
-![image](https://github.com/bruzwyn/bruzwyn/assets/104432366/e763fb45-b547-48ef-8e05-973318dcc57d)<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
+<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="370" height="200">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - - 👀 I’m interested in software dev, networking technologies, and cyber security...

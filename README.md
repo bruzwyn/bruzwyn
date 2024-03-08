@@ -12,8 +12,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&redirect=true)
 
 **Languages and Tools:**
--->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 
 <!---
 bruzwyn/bruzwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

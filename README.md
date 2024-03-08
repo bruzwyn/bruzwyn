@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bruzwyn                                                <img src="ui-dev.gif" alt="Alt Text" width="400" height="200">
+- 👋 Hi, I’m @bruzwyn                                                                                             <img src="ui-dev.gif" alt="Alt Text" width="400" height="200">
 
 - 👀 I’m interested in ...software engineering
 - 🌱 I’m currently learning ...computer science

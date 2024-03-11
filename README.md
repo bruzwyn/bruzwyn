@@ -8,7 +8,7 @@
 </a>
 <br />
 
-<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="340" height="200">
+<img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="340" height="250">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - - 👀 I’m interested in software dev, networking technologies, and cyber security...

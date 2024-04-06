@@ -19,7 +19,7 @@
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me bruce.koech.7@gmail.com
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&redirect=true) <alt="Alt Text" width="340" height="220">
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=akqnlqde4vitx5m38aa09cus1&redirect=true alt="Alt Text" width="340" height="220")
 
 **Languages and Tools:**
 

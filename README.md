@@ -11,7 +11,7 @@
 <img img align="right" style="margin-left:5px;" src="ui-dev.gif" alt="Alt Text" width="340" height="220">
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
-- - 👀 I’m interested in software dev, network engineering, and cyber securityy
+- - 👀 I’m interested in software dev, network engineering, and cyber security
 - 💞️ I’m looking forward to collaborating on any project you might have in mind
 - 😎 look me up at brucewyn to know more about me
 - 👨🏽‍💻 I’m currently working on alx AirBnB clone 😉

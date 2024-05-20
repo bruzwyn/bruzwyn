@@ -12,7 +12,7 @@
 
 - 👋 Hi, I’m @bruzwyn                                                                                  
 - - 👀 I’m interested in software dev, network engineering, and cyber security
-- 💞️ I’m looking forward to collaborating on any project you might have in mindgg
+- 💞️ I’m looking forward to collaborating on any project you might have in mindg
 - 😎 look me up at brucewyn to know more about me
 - 👨🏽‍💻 I’m currently working on alx AirBnB clone 😉
 - 🌱 I’m currently learning simple shell and azure cloud.......

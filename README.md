@@ -14,7 +14,7 @@
 - - 👀 I’m interested in software dev, network engineering, and cyber security
 - 💞️ I’m looking forward to collaborating on any project you might have in mind
 - 😎 look me up at @brucewyn1 to know more about me
-- 👨🏽‍💻 I’m currently working on alx AirBnB clone 😉fff
+- 👨🏽‍💻 I’m currently working on alx AirBnB clone 😉ff
 - 🌱 I’m currently learning simple shell and azure cloud.......
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me bruce.koech.7@gmail.com

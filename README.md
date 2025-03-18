@@ -4,7 +4,8 @@
   <img align="left" alt="Bruce Kimutai | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/bruce-wyn/">
-  <img align="left" alt="Bruce's LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
+  <img align="left" alt="Bruce's LinkedIn" width="22px" src
+="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
 <br />
 

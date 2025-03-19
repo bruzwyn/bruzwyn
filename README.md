@@ -3,7 +3,8 @@
 <a href="https://twitter.com/Brucewyn1">
   <img align="left" alt="Bruce Kimutai | Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/bruce-wyn/">
+<a href
+="https://www.linkedin.com/in/bruce-wyn/">
   <img align="left" alt="Bruce's LinkedIn" width="22px" src
 ="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />
 </a>
@@ -32,7 +33,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git"></code>
 
 
-*<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruzwyn&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>*
+**<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruzwyn&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>**
 <br />
 <!---
 

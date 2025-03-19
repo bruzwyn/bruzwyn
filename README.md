@@ -34,7 +34,6 @@
 
 
 **<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruzwyn&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>**
-<br />
 <!---
 
 
@@ -42,4 +41,5 @@
 <!---
 bruzwyn/bruzwyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
 --->

@@ -36,7 +36,7 @@
 **<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=bruzwyn&theme=dark&hide_border=true&mode=weekly" alt="GitHub Streak" /></a>**
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=bruzwyn)](https://git.io/streak-stats)
+a href="[![GitHub Streak](https://streak-stats.demolab.com/?user=bruzwyn)](https://git.io/streak-stats)"
 
 <!---
 

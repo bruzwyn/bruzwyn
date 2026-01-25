@@ -18,7 +18,7 @@
 - 💞️ I’m looking forward to collaborating on any project you might have in mind
 - 😎 look me up at @brucewyn1 to know more about me.
 - 👨🏽‍💻 I’m currently working on alx AirBnB clone 😉
-- 🌱 I’m currently learning simple shell and azure cloud......
+- 🌱 I’m currently learning simple shell and azure cloud........
 - 💬 Ask me about anything, I will be happy to help
 - 📫 How to reach me bruce.koech.7@gmail.com
 
